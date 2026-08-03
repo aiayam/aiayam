@@ -1,6 +1,1 @@
-# Hi 👋, I'm YourName
-
-💻 Aspiring Software Developer  
-🌱 Currently learning: React, Node.js  
-🚀 Interested in: Web Development & Open Source  
-📫 Reach me at: your@email.com  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B;Hallo+%F0%9F%91%8B;I+am+Aaqil)](https://git.io/typing-svg)
