@@ -39,7 +39,7 @@ Currently pursuing a Diploma in Computer Systems Technology and continuously lea
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,firebase,supabase" />
 </p>
 
 ---
@@ -48,29 +48,18 @@ Currently pursuing a Diploma in Computer Systems Technology and continuously lea
 
 ### 💈 Online Barber Shop Booking System
 
-✔ Online Appointment Booking
-
-✔ Admin Dashboard
-
-✔ AI Chatbot
-
-✔ AI Hairstyle Recommendation
-
-✔ PHP & MySQL
-
----
+- Online Appointment Booking
+- Admin Dashboard
+- AI Chatbot
+- AI Hairstyle Recommendation
+- PHP & MySQL
 
 ### 💪 StrongBody Gym Website
 
-✔ Membership System
-
-✔ Shop
-
-✔ Responsive UI
-
-✔ Chat System
-
----
+- Membership System
+- Shop
+- Responsive UI
+- Chat System
 
 ### 🌐 Portfolio Website
 
@@ -78,68 +67,27 @@ Personal portfolio showcasing my skills and projects.
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
-
-# 🌱 Currently Learning
-
-- AI Integration
-- Machine Learning
-- Laravel
-- React
-- REST APIs
-- Cloud Computing
-
----
-
-# 📫 Connect with Me
+# 📫 Connect With Me
 
 <p>
-
 <a href="https://github.com/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://instagram.com/YOUR_INSTAGRAM">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.tiktok.com/@YOUR_TIKTOK">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
-
 </p>
 
 ---
-
-# ⚡ Fun Fact
-
-> "Code. Learn. Build. Repeat."
 
 <p align="center">
 
