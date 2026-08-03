@@ -91,7 +91,7 @@ A personal portfolio website showcasing my skills, projects, and experience.
 </a>
 
 <a href="mailto:aaqilzaqil@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/aaqilzaqil%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
