@@ -95,9 +95,3 @@ A personal portfolio website showcasing my skills, projects, and experience.
 </a>
 
 </p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
-</p>
