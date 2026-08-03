@@ -40,7 +40,7 @@
 <table align="center">
   <tr>
     <td align="center" width="250">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/A._P._J._Abdul_Kalam.jpg/800px-A._P._J._Abdul_Kalam.jpg" width="180px"/>
+      <img src="https://raw.githubusercontent.com/aiayam/aiayam/main/apj.jpg" width="180px"/>
       <br><br>
       <b>APJ Abdul Kalam</b>
       <br>
